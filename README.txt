@@ -39,5 +39,11 @@ The following key strokes are recognized:
 - h	print these instructions
 
 Main files concerning the project are located in /Anim
+  - LanderSim.h
+  - LanderSim.cpp
+  - Lander.h
+  - Lander.cpp
+  - Common.h
+  - Common.cpp
 
 
